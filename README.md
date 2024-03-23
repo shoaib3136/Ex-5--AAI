@@ -59,8 +59,8 @@ plt.legend()
 plt.show()
 ```
 
-<H3>Output:</H3>
-![image](https://github.com/shoaib3136/Ex-5--AAI/assets/117919362/6975e13c-c4eb-4c99-8566-e0ff12dc9940)
+### Output:
+![image](https://github.com/shoaib3136/Ex-5--AAI/assets/117919362/2bf3818f-ae05-4cc6-8ff3-fe188c6bba8c)
 
 
 
